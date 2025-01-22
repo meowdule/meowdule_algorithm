@@ -1,2 +1,2 @@
 str = input()
-print(str)
+print(str)          # 출력 : print()
