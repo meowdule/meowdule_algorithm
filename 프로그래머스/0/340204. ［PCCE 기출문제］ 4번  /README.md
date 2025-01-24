@@ -34,10 +34,11 @@
 <h4>제한사항</h4>
 
 <ul>
-<li>10 ≤ <code>number</code> ≤ 2,000,000,000
+<li>4 ≤ code의 길이 ≤ 20
+
 
 <ul>
-<li><code>number</code>의 자릿수는 2의 배수입니다.</li>
+<li>code는 영어 소문자와 숫자, 언더바("_")로 이루어져 있습니다.</li>
 </ul></li>
 </ul>
 
@@ -46,16 +47,16 @@
 <h4>입출력 예</h4>
 
 <p>입력 #1</p>
-<div class="highlight"><pre class="codehilite"><code>4859
+<div class="highlight"><pre class="codehilite"><code>dry_eye
 </code></pre></div>
 <p>출력 #1</p>
-<div class="highlight"><pre class="codehilite"><code>107
+<div class="highlight"><pre class="codehilite"><code>Ophthalmologyc
 </code></pre></div>
 <p>입력 #2</p>
-<div class="highlight"><pre class="codehilite"><code>29
+<div class="highlight"><pre class="codehilite"><code>pat23_08_20_head
 </code></pre></div>
 <p>출력 #2</p>
-<div class="highlight"><pre class="codehilite"><code>29
+<div class="highlight"><pre class="codehilite"><code>Neurosurgery
 </code></pre></div>
 <hr>
 
@@ -64,15 +65,13 @@
 <p>입출력 예 #1</p>
 
 <ul>
-<li>입력된 수를 2자리씩 나눠 합치면 다음과 같습니다.</li>
-<li>48 + 59 = 107</li>
+<li>code가 "_eye"로 끝나기 때문에 "Ophthalmologyc"를 출력합니다.</li>
 </ul>
 
 <p>입출력 예 #2</p>
 
 <ul>
-<li>입력된 수를 2자리씩 나눠 합치면 다음과 같습니다.</li>
-<li>29 &nbsp;= 29</li>
+<li>code가 "head"로 끝나기 때문에 "Neurosurgery"를 출력합니다.</li>
 </ul>
 
 
