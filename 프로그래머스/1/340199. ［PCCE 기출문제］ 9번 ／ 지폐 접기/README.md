@@ -1,10 +1,10 @@
 # [level 1] [PCCE 기출문제] 9번 / 지폐 접기 - 340199 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340199) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340199?language=java) 
 
 ### 성능 요약
 
-메모리: 10.1 MB, 시간: 0.01 ms
+메모리: 77.1 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 01월 27일 16:02:41
+2025년 01월 27일 16:06:10
 
 ### 문제 설명
 
