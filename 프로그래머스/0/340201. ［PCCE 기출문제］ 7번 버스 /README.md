@@ -1,4 +1,4 @@
-# [level 0] [PCCE 기취미문제] 7번 / 버스 - 340203
+# [level 0] [PCCE 기출문제] 7번 / 버스 - 340203
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340203?language=python3)
 
