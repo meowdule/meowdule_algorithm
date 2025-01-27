@@ -1,6 +1,6 @@
 # [level 0] [PCCE 기출문제] 5번 / 산책 - 340209
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340209?language=java)
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/250129)
 
 ### 성능 요약
 
