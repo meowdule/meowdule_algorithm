@@ -65,49 +65,6 @@ Year
 
 <hr>
 
-### 코드 예시
-
-```java
-import java.util.Scanner;
-
-public class Solution {
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int year = sc.nextInt();
-        String age_type = sc.next();
-        int answer = 0;
-
-        if (age_type.equals("Korea")) {
-            answer = 2030 - year + 1;
-        }
-        else if (age_type.equals("Year")) {
-            answer = 2030 - year;
-        }
-
-        System.out.println(answer);
-    }
-}
-```
-
-<hr>
-
-### 입출력 설명
-
-#### 입출력 예 #1
-- 2030년에 2000년생의 한국식 나이는 `2030 - 2000 + 1 = 31`살입니다.
-
-#### 입출력 예 #2
-- 2030년에 1999년생의 연 나이는 `2030 - 1999 = 31`살입니다.
-
-<hr>
-
-### 해결 전략
-
-1. `year` 값을 입력받습니다.
-2. `age_type` 값을 입력받아 한국식 나이 또는 연 나이를 계산합니다.
-3. 적절한 수식을 적용하여 결과를 출력합니다.
-
-<hr>
 
 ### 관련 링크
 
