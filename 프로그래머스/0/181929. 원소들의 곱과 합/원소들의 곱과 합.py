@@ -4,7 +4,4 @@ def solution(num_list):
     for i in num_list:
         sum += i
         plus *= i
-    if sum ** 2 > plus :
-        return 1
-    else:
-        return 0
+    return 1 if sum ** 2 > plus else 0
