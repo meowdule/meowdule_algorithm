@@ -1,4 +1,4 @@
-# [level 0] [PCCE 기출문제] 4번 / 저축 - 340208
+# [level 0] [PCCE 기출문제] 4번 / 저축 - 250130
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/340208?language=java)
 
